@@ -3,4 +3,7 @@
     "editor.insertSpaces": true,
     "editor.formatOnSave": true,
     "editor.trimAutoWhitespace": true,
+    "cSpell.words": [
+        "Shellcheck"
+    ],
 }
